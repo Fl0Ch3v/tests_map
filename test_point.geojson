@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "test_point",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": null, "nom": "Crécy-en-Ponthieu", "Typo": "Eglise", "objet": null }, "geometry": { "type": "Point", "coordinates": [ 1.88076580255516, 50.251443996712915 ] } },
+{ "type": "Feature", "properties": { "id": 1, "nom": "Abbeville", "Typo": "Collégiale" }, "geometry": { "type": "Point", "coordinates": [ 1.83280292984853, 50.10526433536058 ] } },
+{ "type": "Feature", "properties": { "id": 2, "nom": "Rue", "Typo": "Eglise" }, "geometry": { "type": "Point", "coordinates": [ 1.680263643007307, 50.270231496142117 ] } },
+{ "type": "Feature", "properties": { "id": 3, "nom": "Pont-Rémy", "Typo": "Baîtments communaux" }, "geometry": { "type": "Point", "coordinates": [ 1.907939438286068, 50.048550317956639 ] } },
+{ "type": "Feature", "properties": { "id": 4, "nom": "Tours-en-Vimeu", "Typo": "Eglise" }, "geometry": { "type": "Point", "coordinates": [ 1.680760152084318, 50.03580196681942 ] } }
+]
+}
